@@ -4,13 +4,13 @@
 - 🌱 Continuous Learner & Curious
 
 ## I'm currently working with
-- Node.js + Typescript, Python
+- Node.js + Typescript, Python, Golang
 - AWS
 - PostgreSQL, DynamoDB
 
 ## I have worked with
 - Java, COBOL, JCL
-- MSQL, MySQL, DB2 
+- Microsot SQLServer, MySQL, DB2 
 - Legacy applications 
 
 ## My Github Stats
